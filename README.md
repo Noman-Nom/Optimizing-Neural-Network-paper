@@ -27,7 +27,7 @@ Each trial used partial training (3 epochs) during the exploration phase to redu
 
 ## 📈 Accuracy Comparison (Exploration Phase)
 
-![Accuracy Comparison](data/accuracy_comparison_2500.png)
+![Accuracy Comparison](accuracy_comparison_2500.png)
 
 ---
 
