@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Checkpoint and model outputs
+checkpoints/
+checkpoints_random/
+*.pth
+
+# OS & editor-specific files
+.DS_Store
+.vscode/
+.env
+.idea/
+
+# Data & large files
+*.csv
+*.npy
+*.npz
+
+# Output images (optional)
+data/*.png
