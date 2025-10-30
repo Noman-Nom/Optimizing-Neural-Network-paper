@@ -35,11 +35,11 @@ Each trial used partial training (3 epochs) during the exploration phase to redu
 
 ### 🔵 PSO - 2,500 + 20,000 Epochs
 
-![PSO Full Run](data/pso_2500_full.png)
+![PSO Full Run](pso_2500_full.png)
 
 ### 🟢 Random Search - 5,000 + 15,000 Epochs
 
-![Random Full Run](data/random_search_15000_full.png)
+![Random Full Run](random_search_15000_full.png)
 
 ---
 
@@ -47,13 +47,9 @@ Each trial used partial training (3 epochs) during the exploration phase to redu
 
 ### PSO Convergence (Top 10 Trials)
 
-![PSO Convergence](data/pso_baseline_summary.png)
+![PSO Convergence](pso_baseline_summary.png)
 
 ### Random Search Convergence
 
-![Random Convergence](data/random_baseline_convergence.png)
-
----
-
-## 📁 Folder Structure
+![Random Convergence](random_baseline_convergence.png)
 
